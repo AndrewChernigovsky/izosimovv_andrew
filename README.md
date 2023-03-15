@@ -1,5 +1,5 @@
 # Сайт-портфолио Изосимова Андрея Андреевича
-Я frontend-developer
+## Я frontend-developer
 
 Мой стек:
 
@@ -8,4 +8,4 @@ Vite
 SASS
 BEM
 
-Более подробно на сайте https://izosimovv_andrew.ru
+## Более подробно на сайте https://izosimovv_andrew.ru

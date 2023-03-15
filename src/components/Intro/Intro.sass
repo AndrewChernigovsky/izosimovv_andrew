@@ -1,0 +1,37 @@
+@import './../../variables.sass'
+
+.Intro
+	text-align: left
+	display: flex
+	align-content: flex-start
+	gap: 10px
+	max-width: $desktop
+	margin: 0 auto
+
+	&__wrapper
+		display: flex
+		flex-wrap: wrap
+		justify-content: space-between
+		align-items: center
+		min-width: 100%
+	
+	&__inner
+		text-align: right
+
+	&__avatar
+		max-width: 300px
+		max-height: 300px
+		clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%)
+		border: 1px solid $black
+
+	&__about
+		display: flex
+
+	&__title
+		color: black
+
+	&__subtitle
+		color: black
+
+	&__text
+		color: black
